@@ -1,0 +1,11 @@
+.content{
+    grid-area: content;
+    background-color: #1b0a39;
+}
+.item {
+    color: blueviolet;
+}
+
+.logo{
+    width: 200px;
+}

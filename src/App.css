@@ -6,9 +6,9 @@ width: 1fr;
           "header header"
           "nav content";
 
-  grid-template-rows:60px 1fr ;
+  grid-template-rows:145px 1fr ;
   grid-template-columns:2fr 1fr ;
-  grid-gap:10px ;
+  grid-gap:1px ;
 }
 
 
